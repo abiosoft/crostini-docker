@@ -1,2 +1,9 @@
 # crostini-docker
-Docker for Crostini with fixed binariest that work
+Docker for Crostini with fixed binaries that work
+
+
+## Install
+
+```
+./install.sh
+```
